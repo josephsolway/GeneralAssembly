@@ -78,4 +78,3 @@ R_sq_test2 = lm.score(df[['workingday','temp','atemp']], df['casual'])
 print 'R-Squared value for Workingday, Temp, and ATemp, for Casual Riders is %s' % R_sq_test2
 
 
-
